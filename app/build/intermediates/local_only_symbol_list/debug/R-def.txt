@@ -1,0 +1,30 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color purple_200
+color purple_500
+color purple_700
+color teal_200
+color teal_700
+color white
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+id authorText
+id bookInput
+id instructions
+id searchButton
+id titleText
+layout activity_main
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+string button_text
+string input_hint
+string instructions
+string loading
+string no_network
+string no_results
+string no_search_term
+style Theme.WhoWroteIt
+xml backup_rules
+xml data_extraction_rules
